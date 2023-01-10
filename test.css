@@ -3,3 +3,9 @@
     background-color: aliceblue;
     filter: blur(5px);
 }
+
+.card
+{
+    padding: 20px 50px;
+    background-color: bisque;
+}
