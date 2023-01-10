@@ -12,5 +12,9 @@
 
 .subtract
 {
+<<<<<<< HEAD
     overflow: hidden;
+=======
+    max-width :100%;
+>>>>>>> 0632eb22179956d70c0b678aeeb12db269c7cb85
 }
