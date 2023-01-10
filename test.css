@@ -1,0 +1,5 @@
+.filter-card
+{
+    background-color: aliceblue;
+    filter: blur(5px);
+}
